@@ -1,0 +1,12 @@
+name: Pulguin
+version: '${project.version}'
+main: jp.thirtycraft.pulguin.Pulguin
+api-version: 1.19
+
+command:
+  message:
+    description:
+      aliases:
+        - msg
+
+
